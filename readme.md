@@ -8,8 +8,8 @@ Run this followed commands:
 # Install dependencies (only for first time)
 npm i
 
-# Serve at localhost:1234
-npm run dev
+# Serve at localhost:8080
+npm run start
 
 # Build for production in the dist/ directory
 npm run build
